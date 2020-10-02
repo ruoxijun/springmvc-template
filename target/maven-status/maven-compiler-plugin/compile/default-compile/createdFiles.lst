@@ -1,0 +1,5 @@
+ruoxijun\pojo\User.class
+ruoxijun\dao\UserMapper.class
+ruoxijun\controller\UserContorller.class
+ruoxijun\service\UserService.class
+ruoxijun\service\UserServiceImpl.class
